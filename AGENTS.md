@@ -2,7 +2,7 @@
 
 ## Scope
 
-Foreman is the production-rule-system layer of the TuringLambdaAI product
+Foreman is the production-rule-system layer of the TurLamAI product
 family: declarative pattern matching over working memory with procedural
 right-hand sides. It is not an expert-system shell, a planner, or a
 business-rules UI.

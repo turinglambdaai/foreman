@@ -1,7 +1,7 @@
 #lang scribble/manual
 
 @title{Foreman}
-@author{TuringLambdaAI}
+@author{TurLamAI}
 
 Public module: @tt{foreman}
 
